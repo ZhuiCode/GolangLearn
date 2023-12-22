@@ -1,0 +1,17 @@
+{
+	"go.languageServerFlags": [
+
+	],
+	"go.autocompleteUnimportedPackages": true,
+	"go.inferGopath": true,
+	"go.toolsGopath": "/home/zhanghui/.gocache/gotools", // tools的绝对路径
+    "go.goroot": "/usr/bin/",
+    "go.gopath": "/home/zhanghui/workspace/gopl.io/",
+    "terminal.integrated.env.linux": {
+        "GO111MODULE": "on"
+	},
+	"go.alternateTools": {
+		
+	},
+	"html.format.extraLiners": "",
+}
