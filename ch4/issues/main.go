@@ -1,10 +1,11 @@
 package main
 
 import (
-	"/Users/zhanghui/go/gopl/ch4/github"
 	"fmt"
 	"log"
 	"os"
+
+	"gopl.io/ch4/github"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"time"
 )
 
-const IssuesURL = "https://api.github.com/search/#search-issues"
+const IssuesURL = "https://docs.github.com/rest"
 
 type IssuesSearchResult struct {
 	TotalCount int `json:"total_count"`
